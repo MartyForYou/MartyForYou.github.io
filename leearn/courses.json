@@ -2,14 +2,14 @@
   "courses": [
     {
       "id": 1,
-      "name": "Learning Python for Data Analysis and Visualization",
-      "position": "Professional Software Developer and Educator",
-      "shortName": "Learning Python for Data",
+      "name": "Modern physics",
+      "position": "Astronomy student",
+      "shortName": "Modern physics",
       "duration": "5h 30m",
       "price": 72.0,
       "rating": 5,
-      "author": "Elizabeth Parker",
-      "category": "technology",
+      "author": "Martin Navarro",
+      "category": "Physics",
       "isTopRated": true,
       "popular": true,
       "isNew": true,
@@ -21,7 +21,7 @@
       "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/01-3d.png",
       "video": "https://george-fx.github.io/nuton/video.mp4",
-      "description": "Welcome to Udemy's first, No Coding Required, VR development course, using VRTK 4. Build once and deploy to both Oculus.",
+      "description": "Welcome to an introduction to modern physics. This course is designed for students who have some experience with physics and calculus, but who are looking to learn about modern physics concepts and theories.",
       "aboutTeacher": "I started working as a software developer at the age of 23, and never looked back. I explored careers as varied as being a  Game Developer, Educator and Drone Pilot, over the last 25 years. None of these provided a continual challenge in the same way the combination of..."
     },
     {
