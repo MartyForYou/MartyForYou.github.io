@@ -22,91 +22,89 @@
     "description": "Welcome to an introduction to modern physics. This course is designed for students who have some experience with physics and calculus, but who are looking to learn about modern physics concepts and theories.",
     "aboutTeacher": "I started working as a software developer at the age of 23, and never looked back. I explored careers as varied as being a  Game Developer, Educator and Drone Pilot, over the last 25 years. None of these provided a continual challenge in the same way the combination of...",
     "sections": [
-        [
-            {
-                "id": 1,
-                "title": "01. Introduction",
-                "completed": 78,
-                "lessons": [
-                    {
-                        "id": 1,
-                        "name": "Setting up individual Camera Rigs",
-                        "duration": 44,
-                        "locked": false,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Setting Up VRTKs Tracked Alias",
-                        "duration": 229,
-                        "locked": false,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Setting Up VRTKs Tracked Alias",
-                        "duration": 142,
-                        "locked": true,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "title": "02. Movement in VR",
-                "completed": 0,
-                "lessons": [
-                    {
-                        "id": 4,
-                        "name": "Setting up individual Camera Rigs",
-                        "duration": 44,
-                        "locked": false,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Setting Up VRTKs Tracked Alias",
-                        "duration": 229,
-                        "locked": false,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Setting Up VRTKs Tracked Alias",
-                        "duration": 142,
-                        "locked": true,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "title": "03. Distance Grabber",
-                "completed": 0,
-                "lessons": [
-                    {
-                        "id": 7,
-                        "name": "Setting up individual Camera Rigs",
-                        "duration": 44,
-                        "locked": false,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Setting Up VRTKs Tracked Alias",
-                        "duration": 229,
-                        "locked": false,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Setting Up VRTKs Tracked Alias",
-                        "duration": 142,
-                        "locked": true,
-                        "video": "https://www.w3schools.com/html/mov_bbb.mp4"
-                    }
-                ]
-            }
-        ]
+        {
+            "id": 1,
+            "title": "01. Introduction",
+            "completed": 78,
+            "lessons": [
+                {
+                    "id": 1,
+                    "name": "Setting up individual Camera Rigs",
+                    "duration": 44,
+                    "locked": false,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "Setting Up VRTKs Tracked Alias",
+                    "duration": 229,
+                    "locked": false,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "Setting Up VRTKs Tracked Alias",
+                    "duration": 142,
+                    "locked": true,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "02. Movement in VR",
+            "completed": 0,
+            "lessons": [
+                {
+                    "id": 4,
+                    "name": "Setting up individual Camera Rigs",
+                    "duration": 44,
+                    "locked": false,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                },
+                {
+                    "id": 5,
+                    "name": "Setting Up VRTKs Tracked Alias",
+                    "duration": 229,
+                    "locked": false,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                },
+                {
+                    "id": 6,
+                    "name": "Setting Up VRTKs Tracked Alias",
+                    "duration": 142,
+                    "locked": true,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "03. Distance Grabber",
+            "completed": 0,
+            "lessons": [
+                {
+                    "id": 7,
+                    "name": "Setting up individual Camera Rigs",
+                    "duration": 44,
+                    "locked": false,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                },
+                {
+                    "id": 8,
+                    "name": "Setting Up VRTKs Tracked Alias",
+                    "duration": 229,
+                    "locked": false,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                },
+                {
+                    "id": 9,
+                    "name": "Setting Up VRTKs Tracked Alias",
+                    "duration": 142,
+                    "locked": true,
+                    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+                }
+            ]
+        }
     ]
 }
