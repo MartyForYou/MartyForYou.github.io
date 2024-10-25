@@ -11,7 +11,7 @@
     "category": "Business",
     "isTopRated": true,
     "popular": true,
-    "isNew": true,
+    "isNew": false,
     "isSpecial": true,
     "status": false,
     "authorImage": "https://george-fx.github.io/nuton/author.png",
