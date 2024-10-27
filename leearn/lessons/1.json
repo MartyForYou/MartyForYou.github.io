@@ -42,7 +42,8 @@
                         "id": "4",
                         "content": "300,000,000 km/s"
                     }
-                ]
+                ],
+                "justification": "The speed of light in a vacuum is 299,792,458 meters per second (m/s)."
             }
         }
     ]
