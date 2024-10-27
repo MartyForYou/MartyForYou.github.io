@@ -1,22 +1,49 @@
 {
     "title": "Constancy of the Speed of Light",
     "description": "The speed of light in a vacuum is a universal constant, which means that all observers, regardless of their relative motion, will always measure the speed of light to be the same value.",
-    "steps": [{
-        "title": "What is the speed of light?",
-        "content": "The speed of light in a vacuum is 299,792,458 meters per second (m/s)."
-    }, {
-        "content": "This is the beginning of step 2 \n\n This is the formula: \n\n $$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\n This is the content of <b>step 2</b>"
-    }, {
-        "content": "This is the beginning of step 3 \n\n This is the other paragraph of step 3",
-        "graph": "relativity_01",
-        "graph_content": "This is the content of the graph"
-    }, {
-        "content": "This is the beginning of step 4 \n\n This is the other paragraph of step 4",
-        "animation": "animation_01"
-    }, {
-        "content": "This is the beginning of step 5 \n\n This is the other paragraph of step 5",
-        "animation": "animation_02",
-        "animation_content": "This is the content of the animation",
-        "quiz": "quiz_01"
-    }]
+    "steps": [
+        {
+            "title": "What is the speed of light?",
+            "content": "The speed of light in a vacuum is 299,792,458 meters per second (m/s)."
+        },
+        {
+            "content": "This is the beginning of step 2 \n\n This is the formula: \n\n $$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\n This is the content of <b>step 2</b>"
+        },
+        {
+            "content": "This is the beginning of step 3 \n\n This is the other paragraph of step 3",
+            "graph": "relativity_01",
+            "graph_content": "This is the content of the graph"
+        },
+        {
+            "content": "This is the beginning of step 4 \n\n This is the other paragraph of step 4",
+            "animation": "animation_01"
+        },
+        {
+            "content": "This is the beginning of step 5 \n\n This is the other paragraph of step 5",
+            "animation": "animation_02",
+            "animation_content": "This is the content of the animation",
+            "quiz": {
+                "question": "What is the speed of light?",
+                "options": [
+                    {
+                        "id": "1",
+                        "content": "299,792,458 m/s",
+                        "correct": true
+                    },
+                    {
+                        "id": "2",
+                        "content": "300,000,000 m/s"
+                    },
+                    {
+                        "id": "3",
+                        "content": "299,792,458 km/s"
+                    },
+                    {
+                        "id": "4",
+                        "content": "300,000,000 km/s"
+                    }
+                ]
+            }
+        }
+    ]
 }
