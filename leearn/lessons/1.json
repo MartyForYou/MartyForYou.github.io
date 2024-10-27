@@ -1,5 +1,22 @@
 {
-    "title": "Lesson 1",
-    "description": "This is the description of lesson 1",
-    "steps": []
+    "title": "Special Relativity",
+    "description": "This lesson is about the special theory of relativity",
+    "steps": [{
+        "title": "Principle of Relativity",
+        "content": "This is the content of step 1"
+    }, {
+        "content": "This is the description of step 2 \n\n This is the content of step 2 \n\n $$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\n This is the content of <b>step 2</b>"
+    }, {
+        "content": "This is the content of step 3 \n\n This is the content of step 3",
+        "graph": "relativity_01",
+        "graph_content": "This is the content of the graph"
+    }, {
+        "content": "This is the content of step 4 \n\n This is the content of step 4",
+        "animation": "animation_01"
+    }, {
+        "content": "This is the content of step 5 \n\n This is the content of step 5",
+        "animation": "animation_01",
+        "animation_content": "This is the content of the animation",
+        "quiz": "quiz_01"
+    }]
 }
