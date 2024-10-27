@@ -1,9 +1,9 @@
 {
-    "title": "Special Relativity",
-    "description": "This lesson is about the special theory of relativity",
+    "title": "Constancy of the Speed of Light",
+    "description": "The speed of light in a vacuum is a universal constant, which means that all observers, regardless of their relative motion, will always measure the speed of light to be the same value.",
     "steps": [{
-        "title": "Principle of Relativity",
-        "content": "This is the content of step 1"
+        "title": "¿What is the speed of light?",
+        "content": "The speed of light in a vacuum is 299,792,458 meters per second (m/s)."
     }, {
         "content": "This is the description of step 2 \n\n This is the content of step 2 \n\n $$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\n This is the content of <b>step 2</b>"
     }, {

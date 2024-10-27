@@ -29,21 +29,21 @@
             "lessons": [
                 {
                     "id": 1,
-                    "name": "Setting up individual Camera Rigs",
+                    "title": "Constancy of the Speed of Light",
                     "duration": 44,
                     "locked": false,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
                 },
                 {
                     "id": 2,
-                    "name": "Setting Up VRTKs Tracked Alias",
+                    "title": "Setting Up VRTKs Tracked Alias",
                     "duration": 229,
                     "locked": false,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
                 },
                 {
                     "id": 3,
-                    "name": "Setting Up VRTKs Tracked Alias",
+                    "title": "Setting Up VRTKs Tracked Alias",
                     "duration": 142,
                     "locked": true,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
@@ -57,21 +57,21 @@
             "lessons": [
                 {
                     "id": 4,
-                    "name": "Setting up individual Camera Rigs",
+                    "title": "Setting up individual Camera Rigs",
                     "duration": 44,
                     "locked": false,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
                 },
                 {
                     "id": 5,
-                    "name": "Setting Up VRTKs Tracked Alias",
+                    "title": "Setting Up VRTKs Tracked Alias",
                     "duration": 229,
                     "locked": false,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
                 },
                 {
                     "id": 6,
-                    "name": "Setting Up VRTKs Tracked Alias",
+                    "title": "Setting Up VRTKs Tracked Alias",
                     "duration": 142,
                     "locked": true,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
@@ -85,21 +85,21 @@
             "lessons": [
                 {
                     "id": 7,
-                    "name": "Setting up individual Camera Rigs",
+                    "title": "Setting up individual Camera Rigs",
                     "duration": 44,
                     "locked": false,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
                 },
                 {
                     "id": 8,
-                    "name": "Setting Up VRTKs Tracked Alias",
+                    "title": "Setting Up VRTKs Tracked Alias",
                     "duration": 229,
                     "locked": false,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
                 },
                 {
                     "id": 9,
-                    "name": "Setting Up VRTKs Tracked Alias",
+                    "title": "Setting Up VRTKs Tracked Alias",
                     "duration": 142,
                     "locked": true,
                     "video": "https://www.w3schools.com/html/mov_bbb.mp4"
