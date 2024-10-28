@@ -4,31 +4,78 @@
     "description": "The speed of light in a vacuum is a universal constant, which means that all observers, regardless of their relative motion, will always measure the speed of light to be the same value.",
     "steps": [
         {
-            "title": "What is the speed of light?",
-            "content": "The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s)."
+            "title": "LITTLE FORMULA",
+            "content": "Supongamos $\\alpha$. La fórmula $\\alpha - \\alpha/2$"
         },
         {
-            "title": "STEP 2",
-            "content": "This is the beginning of step 2 \n\nThis is the formula: \n\n$$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\nThis is the content of <b>step 2</b>\n\nThis is the beginning of step 2 \n\nThis is the formula: \n\n$$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\nThis is the content of <b>step 2</b>\n\nThis is the beginning of step 2 \n\nThis is the formula: \n\n$$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\nThis is the content of <b>step 2</b>\n\nThis is the beginning of step 2 \n\nThis is the formula: \n\n$$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\nThis is the content of <b>step 2</b>"
+            "title": "BIG FORMULA",
+            "content": "Supongamos <b>que</b> $\\frac{1}{2\\pi}\\int_{-\\infty}^{\\infty}e^{-\\frac{x^2}{2}}dx$"
+        },
+        {
+            "title": "What is the speed of light?",
+            "content": "This $$\\begin{equation}\\begin{split} 2 \\cdot x &= 8\\newline x &= 4\\newline x &= 4 \\end{split}\\end{equation}$$\nThe speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s).",
+            "quiz": {
+                "question": "What is the speed of light?",
+                "options": [
+                    {
+                        "id": "1",
+                        "content": "$299,792,458 \\frac{m}{s}$",
+                        "correct": true
+                    },
+                    {
+                        "id": "2",
+                        "content": "$300,000,000 \\frac{m}{s}$"
+                    },
+                    {
+                        "id": "3",
+                        "content": "$\\alpha$"
+                    },
+                    {
+                        "id": "4",
+                        "content": "$\\alpha/\\alpha$"
+                    },
+                    {
+                        "id": "5",
+                        "content": "${\\alpha}^2$"
+                    },
+                    {
+                        "id": "6",
+                        "content": "$301,000,000 \\frac{m}{s}$"
+                    },
+                    {
+                        "id": "7",
+                        "content": "$\\alpha/2$"
+                    },
+                    {
+                        "id": "8",
+                        "content": "$\\vec{o}$"
+                    }
+                ],
+                "justification": "The speed of light in a vacuum is $299,792,458$ meters per second ($\\frac{m}{s}$)."
+            }
         },
         {
             "title": "STEP FORMULA",
-            "content": "La fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \n\nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \n\nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \n\nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \n\nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \n\nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \n\nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \n\n"
+            "content": "Supongamos $\\alpha$.La fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$"
+        },
+        {
+            "title": "STEP 2",
+            "content": "This is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>\nThis is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>\nThis is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>"
         },
         {
             "title": "STEP 3",
-            "content": "La fórmula $\\alpha + \\alpha/2$ es una suma \n\nThis is the other paragraph of step 3",
+            "content": "La fórmula $\\alpha + \\alpha/2$ es una suma \nThis is the other paragraph of step 3",
             "graph": "SpecialRelativity01Graph",
             "graph_content": "This is the content of the graph"
         },
         {
             "title": "STEP 4",
-            "content": "This is the beginning of step 4 \n\nThis is the other paragraph of step 4",
+            "content": "This is the beginning of step 4 \nThis is the other paragraph of step 4",
             "animation": "SpecialRelativity01Animation"
         },
         {
             "title": "STEP 5",
-            "content": "This is the beginning of step 5 \n\nThis is the other paragraph of step 5",
+            "content": "This is the beginning of step 5 \nThis is the other paragraph of step 5 with formula $\\alpha + \\alpha/3 - \\alpha/4 = \\frac{m}{s}$ as well as $\\alpha + \\alpha/2 + \\alpha/3 - \\alpha/4 = \\frac{m}{s}$",
             "animation": "SpecialRelativity02Animation",
             "animation_content": "This is the content of the animation",
             "quiz": {
@@ -36,23 +83,23 @@
                 "options": [
                     {
                         "id": "1",
-                        "content": "299,792,458 m/s",
+                        "content": "$299,792,458 \\frac{m}{s}$",
                         "correct": true
                     },
                     {
                         "id": "2",
-                        "content": "300,000,000 m/s"
+                        "content": "$300,000,000 \\frac{m}{s}$"
                     },
                     {
                         "id": "3",
-                        "content": "299,792,458 km/s"
+                        "content": "$299,792,458 \\frac{m}{s}$"
                     },
                     {
                         "id": "4",
-                        "content": "300,000,000 km/s"
+                        "content": "$300,000,000 \\frac{m}{s}$"
                     }
                 ],
-                "justification": "The speed of light in a vacuum is 299,792,458 meters per second (m/s)."
+                "justification": "The speed of light in a vacuum is $299,792,458$ meters per second ($\\frac{m}{s}$)."
             }
         }
     ]
