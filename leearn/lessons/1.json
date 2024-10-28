@@ -14,7 +14,7 @@
         },
         {
             "content": "La fórmula $\\alpha + \\alpha/2$ es una suma \n\nThis is the other paragraph of step 3",
-            "graph": "SpecialRelativty01Graph",
+            "graph": "SpecialRelativity01Graph",
             "graph_content": "This is the content of the graph"
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "content": "This is the beginning of step 5 \n\nThis is the other paragraph of step 5",
-            "animation": "SpecialRelativty02Animation",
+            "animation": "SpecialRelativity02Animation",
             "animation_content": "This is the content of the animation",
             "quiz": {
                 "question": "What is the speed of light?",
