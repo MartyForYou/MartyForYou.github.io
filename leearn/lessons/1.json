@@ -4,14 +4,17 @@
     "description": "The speed of light in a vacuum is a universal constant, which means that all observers, regardless of their relative motion, will always measure the speed of light to be the same value.",
     "steps": [
         {
+            "id": 1,
             "title": "LITTLE FORMULA",
             "content": "Supongamos $\\alpha$. La fórmula $\\alpha - \\alpha/2$"
         },
         {
+            "id": 2,
             "title": "BIG FORMULA",
             "content": "Supongamos <b>que</b> $\\frac{1}{2\\pi}\\int_{-\\infty}^{\\infty}e^{-\\frac{x^2}{2}}dx$"
         },
         {
+            "id": 3,
             "title": "What is the speed of light?",
             "content": "This $$\\begin{equation}\\begin{split} 2 \\cdot x &= 8\\newline x &= 4\\newline x &= 4 \\end{split}\\end{equation}$$\nThe speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s).",
             "quiz": {
@@ -55,25 +58,30 @@
             }
         },
         {
+            "id": 4,
             "title": "STEP FORMULA",
-            "content": "Supongamos $\\alpha$.La fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$"
+            "content": "Supongamos $\\alpha$.\nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$"
         },
         {
+            "id": 5,
             "title": "STEP 2",
             "content": "This is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>\nThis is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>\nThis is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>"
         },
         {
+            "id": 6,
             "title": "STEP 3",
             "content": "La fórmula $\\alpha + \\alpha/2$ es una suma \nThis is the other paragraph of step 3",
             "graph": "SpecialRelativity01Graph",
             "graph_content": "This is the content of the graph"
         },
         {
+            "id": 7,
             "title": "STEP 4",
             "content": "This is the beginning of step 4 \nThis is the other paragraph of step 4",
             "animation": "SpecialRelativity01Animation"
         },
         {
+            "id": 8,
             "title": "STEP 5",
             "content": "This is the beginning of step 5 \nThis is the other paragraph of step 5 with formula $\\alpha + \\alpha/3 - \\alpha/4 = \\frac{m}{s}$ as well as $\\alpha + \\alpha/2 + \\alpha/3 - \\alpha/4 = \\frac{m}{s}$",
             "animation": "SpecialRelativity02Animation",
