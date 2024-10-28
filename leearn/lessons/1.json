@@ -7,20 +7,23 @@
             "content": "The speed of light in a vacuum is 299,792,458 meters per second (m/s)."
         },
         {
-            "content": "This is the beginning of step 2 \n\n This is the formula: \n\n $$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\n This is the content of <b>step 2</b>"
+            "content": "This is the beginning of step 2 \n\nThis is the formula: \n\n$$4sen(\\alpha)cos^2(\\alpha/2)$$ \n\nThis is the content of <b>step 2</b>"
         },
         {
-            "content": "This is the beginning of step 3 \n\n This is the other paragraph of step 3",
-            "graph": "relativity_01",
+            "content": "La fórmula $\\alpha - \\alpha/2$ es una resta"
+        },
+        {
+            "content": "La fórmula $\\alpha + \\alpha/2$ es una suma \n\nThis is the other paragraph of step 3",
+            "graph": "SpecialRelativty01Graph",
             "graph_content": "This is the content of the graph"
         },
         {
-            "content": "This is the beginning of step 4 \n\n This is the other paragraph of step 4",
-            "animation": "animation_01"
+            "content": "This is the beginning of step 4 \n\nThis is the other paragraph of step 4",
+            "animation": "SpecialRelativity01Animation"
         },
         {
-            "content": "This is the beginning of step 5 \n\n This is the other paragraph of step 5",
-            "animation": "animation_02",
+            "content": "This is the beginning of step 5 \n\nThis is the other paragraph of step 5",
+            "animation": "SpecialRelativty02Animation",
             "animation_content": "This is the content of the animation",
             "quiz": {
                 "question": "What is the speed of light?",
