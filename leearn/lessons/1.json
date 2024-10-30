@@ -1,78 +1,61 @@
 {
     "id": 1,
-    "title": "Constancy of the Speed of Light",
-    "description": "La velocidad de la luz en el vacío es una constante universal, esto implica que todos los observadores, sin importar su movimiento relativo, siempre medirán la velocidad de la luz con un valor único.",
+    "title": "Constancia de la velocidad de la luz",
+    "description": "La velocidad de la luz en el vacío es una constante universal, lo que significa que todos los observadores, independientemente de su movimiento relativo, siempre medirán la velocidad de la luz con el mismo valor.",
     "steps": [
         {
             "id": 1,
-            "title": "LITTLE FORMULA",
-            "content": "Supongamos $\\alpha$. La fórmula $\\alpha - \\alpha/2$"
+            "title": "Principio de relatividad",
+            "content": "El principio de relatividad puede enunciarse como<quote>Es imposible diseñar un experimento que establezca si uno se halla en reposo o en movimiento uniforme.<qlabel>POSTULADO I, EL PRINCIPIO DE RELATIVIDAD</qlabel></quote>"
         },
         {
             "id": 2,
-            "title": "BIG FORMULA",
-            "content": "Supongamos <b>que</b> $\\frac{1}{2\\pi}\\int_{-\\infty}^{\\infty}e^{-\\frac{x^2}{2}}dx$"
+            "title": "¿Qué es el movimiento uniforme?",
+            "content": "El movimiento uniforme es el que se realiza a velocidad constante respecto a un sistema de referencia inercial."
         },
         {
             "id": 3,
-            "title": "What is the speed of light?",
-            "content": "This $$\\begin{equation}\\begin{split} 2 \\cdot x &= 8\\newline x &= 4\\newline x &= 4 \\end{split}\\end{equation}$$\nThe speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s). The speed of light in a vacuum is 299,792,458 meters per second (m/s).",
+            "title": "¿A qué nos referimos con sistema de referencia inercial?",
+            "content": "Un sistema de referencia inercial puede ser considerado, como buena aproximación, la superficie de la Tierra o un avión que viaje a velociadad constante con respecto a la superficie terrestre. En ambos casos se cumple que una partícula sin fuerzas externas se mueve a velocidad constante.",
+            "graph": "SpecialRelativity01Graph",
+            "graph_content": "This is the content of the graph",
             "quiz": {
-                "question": "What is the speed of light?",
+                "question": "¿Qué es un sistema de referencia inercial?",
                 "options": [
                     {
                         "id": "1",
-                        "content": "$299,792,458 \\frac{m}{s}$",
-                        "correct": true
+                        "content": "Un sistema de referencia en el que una partícula con fuerzas externas se mueva a velocidad constante."
                     },
                     {
                         "id": "2",
-                        "content": "$300,000,000 \\frac{m}{s}$"
+                        "content": "Un sistema de referencia en el que una partícula sin fuerzas externas se mueva a velocidad variable."
                     },
                     {
                         "id": "3",
-                        "content": "$\\alpha$"
+                        "content": "Un sistema de referencia en el que una partícula sin fuerzas externas se mueva a velocidad constante.",
+                        "correct": true
                     },
                     {
                         "id": "4",
-                        "content": "$\\alpha/\\alpha$"
-                    },
-                    {
-                        "id": "5",
-                        "content": "${\\alpha}^2$"
-                    },
-                    {
-                        "id": "6",
-                        "content": "$301,000,000 \\frac{m}{s}$"
-                    },
-                    {
-                        "id": "7",
-                        "content": "$\\alpha/2$"
-                    },
-                    {
-                        "id": "8",
-                        "content": "$\\vec{o}$"
+                        "content": "Un sistema de referencia en el que una partícula con fuerzas externas se mueva a velocidad variable."
                     }
                 ],
-                "justification": "The speed of light in a vacuum is $299,792,458$ meters per second ($\\frac{m}{s}$)."
+                "justification": "Un sistema de referencia inercial es aquel en el que se cumple que una partícula sin fuerzas externas se mueva a velocidad constante."
             }
         },
         {
             "id": 4,
-            "title": "STEP FORMULA",
-            "content": "Supongamos $\\alpha$.\nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$ y además se puede simplificar a $\\alpha/2$ \nLa fórmula $\\alpha - \\alpha/2$ es una resta que se puede simplificar a $\\alpha/2$"
+            "title": "El experimento de Michelson-Morley",
+            "content": "El experimento de Michelson-Morley fue un experimento realizado en 1887 por Albert Michelson y Edward Morley en el que trataron de medir la velocidad de la Tierra respecto al éter, un medio hipotético que se creía que llenaba el espacio y a través del cual se propagaban las ondas electromagnéticas."
         },
         {
             "id": 5,
-            "title": "STEP 2",
-            "content": "This is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>\nThis is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>\nThis is the beginning of step 2\nThis is the formula:\n$$\\begin{aligned}[t] 4sen(\\alpha)cos^2(\\alpha/2)\\end{aligned}$$\nThis is the content of <b>step 2</b>"
+            "content": "La teoría del <b>éter</b> proponía un sistema de referencia absoluto en el que se podía medir la velocidad de la Tierra respecto a él. Sin embargo, el experimento de Michelson-Morley no encontró evidencia de la existencia del éter, lo que llevó a la formulación de la teoría de la relatividad especial por parte de Albert Einstein."
         },
         {
             "id": 6,
-            "title": "STEP 3",
-            "content": "La fórmula $\\alpha + \\alpha/2$ es una suma \nThis is the other paragraph of step 3",
-            "graph": "SpecialRelativity01Graph",
-            "graph_content": "This is the content of the graph"
+            "title": "Constancia de la velocidad de la luz",
+            "content": "Albert Einstein propuso entonces que la luz era capaz de propagarse a través del vacío sin necesidad de un medio material y que su velocidad era constante para todos los observadores, haciendo así que el concepto de éter fuera innecesario.<quote>La velocidad de la luz es independiente de la velocidad de la fuente emisora.<qlabel>POSTULADO II</qlabel></quote>"
         },
         {
             "id": 7,
