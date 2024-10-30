@@ -16,28 +16,27 @@
         {
             "id": 3,
             "title": "¿A qué nos referimos con sistema de referencia inercial?",
-            "content": "Un sistema de referencia inercial puede ser considerado, como buena aproximación, la superficie de la Tierra o un avión que viaje a velociadad constante con respecto a la superficie terrestre. En ambos casos se cumple que una partícula sin fuerzas externas se mueve a velocidad constante.",
+            "content": "Un sistema de referencia inercial puede ser considerado, como buena aproximación, la superficie de la Tierra o un avión que viaje a velocidad constante con respecto a la superficie terrestre. En ambos casos se cumple que una partícula sin fuerzas externas se mueve a velocidad constante.",
             "graph": "SpecialRelativity01Graph",
-            "graph_content": "This is the content of the graph",
             "quiz": {
                 "question": "¿Qué es un sistema de referencia inercial?",
                 "options": [
                     {
                         "id": "1",
-                        "content": "Un sistema de referencia en el que una partícula con fuerzas externas se mueva a velocidad constante."
+                        "content": "Un sistema de referencia en el que una partícula con fuerzas externas se mueve a velocidad constante."
                     },
                     {
                         "id": "2",
-                        "content": "Un sistema de referencia en el que una partícula sin fuerzas externas se mueva a velocidad variable."
+                        "content": "Un sistema de referencia en el que una partícula sin fuerzas externas se mueve a velocidad variable."
                     },
                     {
                         "id": "3",
-                        "content": "Un sistema de referencia en el que una partícula sin fuerzas externas se mueva a velocidad constante.",
+                        "content": "Un sistema de referencia en el que una partícula sin fuerzas externas se mueve a velocidad constante.",
                         "correct": true
                     },
                     {
                         "id": "4",
-                        "content": "Un sistema de referencia en el que una partícula con fuerzas externas se mueva a velocidad variable."
+                        "content": "Un sistema de referencia en el que una partícula con fuerzas externas se mueve a velocidad variable."
                     }
                 ],
                 "justification": "Un sistema de referencia inercial es aquel en el que se cumple que una partícula sin fuerzas externas se mueva a velocidad constante."
